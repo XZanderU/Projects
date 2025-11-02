@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\satel\\Projects\\GamestoreApi\\GameStoreApi.csproj": {}
+    "C:\\Users\\satel\\Projects\\GameStoreApi\\GameStoreApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\satel\\Projects\\GamestoreApi\\GameStoreApi.csproj": {
+    "C:\\Users\\satel\\Projects\\GameStoreApi\\GameStoreApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\satel\\Projects\\GamestoreApi\\GameStoreApi.csproj",
+        "projectUniqueName": "C:\\Users\\satel\\Projects\\GameStoreApi\\GameStoreApi.csproj",
         "projectName": "GameStoreApi",
-        "projectPath": "C:\\Users\\satel\\Projects\\GamestoreApi\\GameStoreApi.csproj",
+        "projectPath": "C:\\Users\\satel\\Projects\\GameStoreApi\\GameStoreApi.csproj",
         "packagesPath": "C:\\Users\\satel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\satel\\Projects\\GamestoreApi\\obj\\",
+        "outputPath": "C:\\Users\\satel\\Projects\\GameStoreApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\satel\\AppData\\Roaming\\NuGet\\NuGet.Config"

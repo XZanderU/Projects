@@ -1,1 +1,29 @@
-GET http://localhost:5173
+GET http://localhost:5173/games
+
+###
+GET http://localhost:5173/games/2
+
+###
+POST http://localhost:5173/games
+Content-Type: application/json
+
+{
+    "name": "Minecraft",
+    "genre": "Kids and Family",
+    "price": 19.99,
+    "releaseDate": "2011-11-18"
+}
+
+###
+PUT http://localhost:5173/games/1
+Content-Type: application/json
+
+{
+    "name": "The Witcher 3: Wild Hunt - Game of the Year Edition",
+    "genre": "RPG",
+    "price": 39.99,
+    "releaseDate": "2016-08-30"
+}
+
+###
+DELETE http://localhost:5173/games/1
