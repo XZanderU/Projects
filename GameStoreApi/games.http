@@ -19,7 +19,7 @@ PUT http://localhost:5173/games/1
 Content-Type: application/json
 
 {
-    "name": "The Witcher 3: Wild Hunt - Game of the Year Edition",
+    
     "genre": "RPG",
     "price": 39.99,
     "releaseDate": "2016-08-30"

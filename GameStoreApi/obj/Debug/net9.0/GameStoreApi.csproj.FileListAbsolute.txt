@@ -27,3 +27,9 @@ C:\Users\satel\Projects\GameStoreApi\obj\Debug\net9.0\GameStoreApi.pdb
 C:\Users\satel\Projects\GameStoreApi\obj\Debug\net9.0\GameStoreApi.genruntimeconfig.cache
 C:\Users\satel\Projects\GameStoreApi\obj\Debug\net9.0\ref\GameStoreApi.dll
 C:\Users\satel\Projects\GameStoreApi\obj\Debug\net9.0\GameStoreApi.sourcelink.json
+C:\Users\satel\Projects\GameStoreApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\satel\Projects\GameStoreApi\bin\Debug\net9.0\MinimalApis.Extensions.dll
+C:\Users\satel\Projects\GameStoreApi\bin\Debug\net9.0\MiniValidation.dll
+C:\Users\satel\Projects\GameStoreApi\obj\Debug\net9.0\GameStoreApi.csproj.AssemblyReference.cache
+C:\Users\satel\Projects\GameStoreApi\obj\Debug\net9.0\GameStoreApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\satel\Projects\GameStoreApi\obj\Debug\net9.0\GameStor.32FDE826.Up2Date
