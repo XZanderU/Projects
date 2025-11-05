@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\satel\\Projects\\GameStoreApi\\GameStoreApi.csproj": {}
+    "c:\\Users\\satel\\Projects\\GameStoreApi\\GameStoreApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\satel\\Projects\\GameStoreApi\\GameStoreApi.csproj": {
+    "c:\\Users\\satel\\Projects\\GameStoreApi\\GameStoreApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\satel\\Projects\\GameStoreApi\\GameStoreApi.csproj",
+        "projectUniqueName": "c:\\Users\\satel\\Projects\\GameStoreApi\\GameStoreApi.csproj",
         "projectName": "GameStoreApi",
-        "projectPath": "C:\\Users\\satel\\Projects\\GameStoreApi\\GameStoreApi.csproj",
+        "projectPath": "c:\\Users\\satel\\Projects\\GameStoreApi\\GameStoreApi.csproj",
         "packagesPath": "C:\\Users\\satel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\satel\\Projects\\GameStoreApi\\obj\\",
+        "outputPath": "c:\\Users\\satel\\Projects\\GameStoreApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\satel\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -44,6 +44,10 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
             "MinimalApis.Extensions": {
               "target": "Package",
               "version": "[0.11.0, )"
