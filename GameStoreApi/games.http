@@ -8,10 +8,10 @@ POST http://localhost:5173/games
 Content-Type: application/json
 
 {
-    "name": "Lego Star Wars: The Complete Saga",
-    "genreId": 5,
-    "price": 19.99,
-    "releaseDate": "2011-11-18"
+    "name": "Final Fantasy XVI",
+    "genreId": 2,
+    "price": 59.99,
+    "releaseDate": "2010-09-30"
 }
 
 ###
